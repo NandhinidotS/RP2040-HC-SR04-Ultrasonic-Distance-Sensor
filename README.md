@@ -137,7 +137,7 @@ In Thonny, go to **Run → Configure interpreter**.
 
 In the **Interpreter** tab, select **MicroPython (RP2040)**. Then click **Install or update MicroPython**.
 
-![Interpreter Window](Interpreter_Window.jpeg)
+![Interpreter Window](Interpreter_window.jpeg)
 
 ### Step 3: Select the MicroPython Variant
 
